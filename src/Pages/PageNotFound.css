@@ -1,0 +1,47 @@
+/* PageNotFound.css */
+
+.page-not-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Background color */
+  }
+  
+  .error-card {
+    width: 400px;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #fff; /* Card background color */
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out; /* Fade-in animation */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    transition: transform 0.2s ease-in-out; /* Hover effect */
+  }
+  
+  .error-card:hover {
+    transform: scale(1.05); /* Scale up on hover for a subtle effect */
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333; /* Text color for the heading */
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #666; /* Text color for the description */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "iPhone 12",
+      "product_desc": "The latest iPhone with a stunning display.",
+      "product_category": "Mobiles",
+      "product_image": "https://dlcdnwebimgs.asus.com/gain/7f6a5f1d-c3c2-444b-8cf3-e5c2cf4dc5e8/w692",
+      "product_price": "1200$"
+    },
+    {
+      "id": 2,
+      "product_name": "Samsung Galaxy S21",
+      "product_desc": "A powerful Android smartphone with a great camera.",
+      "product_category": "Mobiles",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fmobile%2Fsamsung-galaxy-s21-ultra-review-5g-phone-pretty-badass%2F&psig=AOvVaw2Pq-1PFQ2WcofF6_Vs1UhB&ust=1695722222626000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiE_de_xYEDFQAAAAAdAAAAABAE",
+      "product_price": "1200$"
+    },
+    {
+      "id": 3,
+      "product_name": "Google Pixel 5",
+      "product_desc": "A Google Pixel phone with pure Android experience.",
+      "product_category": "Mobiles",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fspecs-tech.com%2Fgoogle-pixel-5%2F%3Flang%3Den&psig=AOvVaw3zp2EnQQHRnN0HY7y2cC3_&ust=1695722252216000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODd0uW_xYEDFQAAAAAdAAAAABAT",
+      "product_price": "1200$"
+    },
+    {
+      "id": 4,
+      "product_name": "HP Spectre x360",
+      "product_desc": "A premium 2-in-1 laptop with a sleek design.",
+      "product_category": "Laptops",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fhp-spectre-x360-14-review%2F&psig=AOvVaw3Zk5ste7HdZgayFSsww9Y7&ust=1695722299205000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj2gvy_xYEDFQAAAAAdAAAAABAE",
+      "product_price": "1200$"
+    },
+    {
+      "id": 5,
+      "product_name": "Dell XPS 13",
+      "product_desc": "A compact and powerful laptop for productivity.",
+      "product_category": "Laptops",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhothardware.com%2Freviews%2Fdell-xps-13-plus-review-2022&psig=AOvVaw0P8vLa4woPorAp_JO3EUnw&ust=1695722331701000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDoz4vAxYEDFQAAAAAdAAAAABAE",
+      "product_price": "1200$"
+    },
+    {
+      "id": 6,
+      "product_name": "Lenovo ThinkPad X1 Carbon",
+      "product_desc": "A business-class laptop known for its durability.",
+      "product_category": "Laptops",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbtech.com%2Fen%2Flenovo-thinkpad-x1-carbon-20kh0005ed.html&psig=AOvVaw1EcAE0WVeat0j_3-NG3huj&ust=1695722368348000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjwsJ7AxYEDFQAAAAAdAAAAABAJ",
+      "product_price": "1200$"
+    },
+    {
+      "id": 7,
+      "product_name": "Lenovo Ideapad Gaming 3",
+      "product_desc": "A business-class laptop known for its durability.",
+      "product_category": "Laptops",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbtech.com%2Fen%2Flenovo-ip-g3-core-i5-16gb-1tb-256gb-gtx-1650-4gb-15-6-fhd-dos-shadow-black-laptop.html&psig=AOvVaw2w3nnHjUDC22RqHbv2AdrA&ust=1695722404750000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCQ2LHAxYEDFQAAAAAdAAAAABAE",
+      "product_price": "1200$"
+    },
+    {
+      "id": 8,
+      "product_name": "Realme7 Pro",
+      "product_desc": "A business-class laptop known for its durability.",
+      "product_category": "Mobiles",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck.net%2FRealme-7-Pro-Smartphone-Review-Super-fast-charging-and-good-features.503758.0.html&psig=AOvVaw1l211CqjXsgYZXGyjrv4xD&ust=1695722439858000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC-0sHAxYEDFQAAAAAdAAAAABAE",
+      "product_price": "1200$"
+    },
+    {
+      "id": 9,
+      "product_name": "Asus tuf Gaming G9",
+      "product_desc": "High Responsive Screen",
+      "product_category": "Screens",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1584274-REG%2Fasus_tuf_gaming_vg32vq1b_curved.html&psig=AOvVaw2q1TQNNTJSq_N1UzokjBa1&ust=1695722476109000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjXydDAxYEDFQAAAAAdAAAAABAJ",
+      "product_price": "1200$"
+    },
+    {
+      "product_name": "Dell G3",
+      "product_desc": "High Responsive Screen",
+      "product_category": "Screens",
+      "product_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1584274-REG%2Fasus_tuf_gaming_vg32vq1b_curved.html&psig=AOvVaw2q1TQNNTJSq_N1UzokjBa1&ust=1695722476109000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjXydDAxYEDFQAAAAAdAAAAABAJ",
+      "product_price": "1200$",
+      "id": 10
+    },
+    {
+      "product_name": "fgdfgd",
+      "product_price": "600",
+      "product_desc": "dfgdfgdf",
+      "product_category": "Mobiles",
+      "product_image": "https://btech.com/cdn-cgi/image/quality=50,format=auto/media/catalog/product/cache/22b1bed05f04d71c4a848d770186c3c4/7/1/71ytc3z0fgl._ac_sl1500_.jpg",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user_name": "hossam"
+    },
+    {
+      "id": 2
+    }
+  ]
+}
